@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 17 promax",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScozJnT40IMSeQaSkU6_bnsdqgqqQiUt1KAXiChs_Vqf5DTvXJzMK3x9ACTAkr4M9xykO5pdAnZcJnkPlQ7nvETnzJGne5lCM6coieBWmzDXytpuLfO6_X0effr8FLROnUBA8NcA&usqp=CAc",
+    "price": 1000000,
+    "cate_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Iphone 16 promax",
+    "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-2FubIAHziZ3uob2Sc_rnM3scbtiLJT_ySMnkty5qr3c_0CayKj6J54Mj6ghoVjbB67CehaCgiTnKNKL42gtSGcNgQOqkxhmk7pTZ9idnWulr3Sg5oyVuEhdtZHTTQacSDZKKaw&usqp=CAc",
+    "price": 1000000,
+    "cate_id": 2
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M4",
+    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT2cbpY8f1AwoaMtonhXcmnbbG_cjjQPGoTJfE5YyZNpvmnklVNK8kbQdnzvFGvfUvXCCh2f2S4qQaLGRJMjkCbdzMBp_M65OjNcaFl-vez2AZ8KlcDOWL7JoDI6g&usqp=CAc",
+    "price": 100000000,
+    "cate_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 17 promax",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScozJnT40IMSeQaSkU6_bnsdqgqqQiUt1KAXiChs_Vqf5DTvXJzMK3x9ACTAkr4M9xykO5pdAnZcJnkPlQ7nvETnzJGne5lCM6coieBWmzDXytpuLfO6_X0effr8FLROnUBA8NcA&usqp=CAc",
+    "price": 1000000,
+    "cate_id": 2
+  },
+  {
+    "id": 1,
+    "name": "Iphone 17 promax",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScozJnT40IMSeQaSkU6_bnsdqgqqQiUt1KAXiChs_Vqf5DTvXJzMK3x9ACTAkr4M9xykO5pdAnZcJnkPlQ7nvETnzJGne5lCM6coieBWmzDXytpuLfO6_X0effr8FLROnUBA8NcA&usqp=CAc",
+    "price": 1000000,
+    "cate_id": 2
+  },
+  {
+    "id": 1,
+    "name": "Iphone 17 promax",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScozJnT40IMSeQaSkU6_bnsdqgqqQiUt1KAXiChs_Vqf5DTvXJzMK3x9ACTAkr4M9xykO5pdAnZcJnkPlQ7nvETnzJGne5lCM6coieBWmzDXytpuLfO6_X0effr8FLROnUBA8NcA&usqp=CAc",
+    "price": 1000000,
+    "cate_id": 2
+  },
+  {
+    "id": 1,
+    "name": "Iphone 17 promax",
+    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScozJnT40IMSeQaSkU6_bnsdqgqqQiUt1KAXiChs_Vqf5DTvXJzMK3x9ACTAkr4M9xykO5pdAnZcJnkPlQ7nvETnzJGne5lCM6coieBWmzDXytpuLfO6_X0effr8FLROnUBA8NcA&usqp=CAc",
+    "price": 1000000,
+    "cate_id": 2
+  }
+]
